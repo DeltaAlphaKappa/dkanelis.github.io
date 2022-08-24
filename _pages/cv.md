@@ -11,21 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Accounting, Lancaster University Management School, 2023 (expected)
+* International M.Sc.in Management, CATOLICA-LISBON School of Business and Economic, 2017
+* B.Sc in Finance, Lancaster University Management School, 2016
 
 Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
 * Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Lancaster University Management School
   
 Skills
 ======
@@ -36,24 +32,19 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+AcF 100. Introduction to Accounting and Finance
+AcF 101. Quantitative Methods for Accounting and Finance
+AcF 211. Accounting Information Systems and Auditing
+AcF 212. Principles of Financial Reporting
+AcF 403. Introduction to Accounting
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+PhD Ambassador - Schools Liaison and Recruitment 
+PhD Representative, Lancaster University Management School, 2018-2021
+M.Sc Student Representative, Lancaster University Management School, 2015-2016
+B.Sc Student Representative, University of Macedonia 2009-2013
+
+
