@@ -13,7 +13,7 @@ name                     : &name "Dimitris Kanelis"
 description              : &description "Dimitris Kanelis Personal Website"
 url                      : https://kanelisd.github.io/dkanelis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "kanelisd/dkanelis.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dimitris Kaneliss"
+  name             : "Dimitris Kanelis"
   avatar           : "profile.png"
   bio              : "PhD Candidate in Accounting at the University of Lancaster"
   location         : "Lancaster, United Kingdom"
