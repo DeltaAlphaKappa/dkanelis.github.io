@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "PhD Candidate in Accounting at the University of Lancaster"
   location         : "Lancaster, United Kingdom"
-  employer         : "https://www.research.lancs.ac.uk/portal/en/people/dimitrios-kanelis(e1651f58-d73a-4104-b5b9-6a3cd51817ff).html"
+  employer         : #"https://www.research.lancs.ac.uk/portal/en/people/dimitrios-kanelis(e1651f58-d73a-4104-b5b9-6a3cd51817ff).html"
   pubmed           :  
   googlescholar    :  
   email            : "d.kanelis1@lancaster.ac.uk"
@@ -181,12 +181,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
@@ -227,23 +221,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
