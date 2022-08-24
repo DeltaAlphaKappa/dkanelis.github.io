@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="/files/CV_Kanelis_August_2022.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
-You can download a PDF copy of my CV [here](/files/CV_Kanelis_August_2022.pdf).
+<iframe src="https://kanelisd.github.io//files/CV_Kanelis_August_2022.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+You can download a PDF copy of my CV [here](https://kanelisd.github.io//files/CV_Kanelis_August_2022.pdf).
