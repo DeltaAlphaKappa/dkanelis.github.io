@@ -11,5 +11,5 @@ My research focuses on financial communication and the perceptions of capital ma
 
 {% include base_path %}
 
-{% for post in site.DK_research %} {% include archive-single.html %} {% endfor %}
+{% for post in site.publications %} {% include archive-single.html %} {% endfor %}
 
