@@ -7,7 +7,7 @@ title: "Research"
 
 My research focuses on financial communication and the perceptions of capital market participants. To this end, I use machine learning methods and natural language processing tools to harvest novel data from corporate disclosures and other sources (e.g., social media and news outlets).
 
-## "Context matters: The role of fair value footnote narratives"
+## Context matters: The role of fair value footnote narratives
 with [Argyro Panaretou](https://www.lancaster.ac.uk/lums/people/argyro-panaretou) and [Catherine Shakespeare](https://michiganross.umich.edu/faculty-research/faculty/cathy-shakespeare)
 
 ### Abstract
