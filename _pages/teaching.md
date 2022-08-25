@@ -4,9 +4,9 @@ title: "Teaching"
 ---
 
 
-Teaching and research are not ‘zero-sum’.
+Teaching and research **are not** ‘zero-sum’.
 
-I have been teaching at Lancaster University since the first year of my PhD, and have been involved in Accounting (and Finance) undergraduate and postgraduate modules. I also involded in Schools Liaison and Recruitment activities - delivering taster sessions in Accounting and Finance to prospective students. I have succesfully completed the Lancaster University Assosiate Teacher Programme and am a recognised as an Associate Fellow of the HEA, from [Advance HE](https://www.advance-he.ac.uk) - the national body for teaching in Higher Education in the UK. 
+I have been teaching at Lancaster University since the first year of my PhD, and have been involved in Accounting (and Finance) undergraduate and postgraduate modules. I also involved in Schools Liaison and Recruitment activities - delivering taster sessions in Accounting and Finance to prospective students. I have successfully completed the Lancaster University Associate Teacher Programme and am a recognised as an Associate Fellow of the HEA, from [Advance HE](https://www.advance-he.ac.uk) - the national body for teaching in Higher Education in the UK.
 
 
 You can view my teaching portfolio below.
