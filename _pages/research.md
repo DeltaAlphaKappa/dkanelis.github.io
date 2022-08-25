@@ -18,7 +18,7 @@ To reduce uncertainty regarding the fair value measurement process, financial st
 [Contact to request a draft](mailto:d.kanelis1@lancaster.ac.uk)
 
 ## Tightening rating standards: The effect of narrative risk disclosures
-### With [Argyro Panaretou](https://www.lancaster.ac.uk/lums/people/argyro-panaretou) and [Grzegorz Pawlina](https://www.lancaster.ac.uk/lums/people/grzegorz-pawlina)
+with [Argyro Panaretou](https://www.lancaster.ac.uk/lums/people/argyro-panaretou) and [Grzegorz Pawlina](https://www.lancaster.ac.uk/lums/people/grzegorz-pawlina)
 
 ### Abstract
 
