@@ -7,11 +7,21 @@ title: "Research"
 
 My research focuses on financial communication and the perceptions of capital market participants. To this end, I use machine learning methods and natural language processing tools to harvest novel data from corporate disclosures and other sources (e.g., social media and news outlets).
 
-## Research projects
+# Research projects
 
-{% if author.googlescholar %} You can also find my articles on my Google Scholar profile. {% endif %}
+# Context matters: The role of fair value footnote narratives
+With Argyro Panaretou and Catherine Shakespeare
 
-{% include base_path %}
+Abstract
+To reduce uncertainty regarding the fair value measurement process, financial statements come with explanatory footnotes, the relevance and informativeness of which has been challenged by financial statement users and practitioners. In this paper we investigate whether the narrative components of fair value footnotes affect investor uncertainty. Our results suggest that, incrementally to the volume of tabulated fair value footnote disclosures, fair value narratives can assist financial statement users in understanding the reliability of opaque fair value estimates. We document a negative association between the length of fair value narratives and investor uncertainty towards Level 3 fair value asset estimates. However, further tests reveal that fair value narratives can also result in increased investor uncertainty, when they are boilerplate. Collectively, our findings shed new light on the role of narrative information in the fair value footnotes and inform standard setters, managers, and academics researching fair value reporting.
 
-{% for post in site.publications %} {% include archive-single.html %} {% endfor %}
+Keywords: Fair value accounting; Fair value footnotes; Information risk; ASC 820; SFAS 157; Level 3; Boilerplate.
+
+Contact to request a draft
+
+*{% if author.googlescholar %} You can also find my articles on my Google Scholar profile. {% endif %}
+
+*{% include base_path %}
+
+*{% for post in site.publications %} {% include archive-single.html %} {% endfor %}
 
