@@ -3,7 +3,7 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-> Teaching and research **are not** ‘zero-sum’
+> Teaching and research are **not** ‘zero-sum’
 
 I have been teaching at Lancaster University since the first year of my PhD, and have been involved in Accounting (and Finance) undergraduate and postgraduate modules. I also involved in Schools Liaison and Recruitment activities - delivering taster sessions in Accounting and Finance to prospective students. 
 
