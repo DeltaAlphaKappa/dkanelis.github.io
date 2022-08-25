@@ -16,4 +16,4 @@ My research interests include financial communication, information uncertainty, 
 
 Thank you for taking the time to check out my website. Please feel free to reach out if you have any questions about my research or any other information on this site. 
 
-Here is a link to my [university profile](https://www.research.lancs.ac.uk/portal/en/people/dimitrios-kanelis(e1651f58-d73a-4104-b5b9-6a3cd51817ff).html). 
+Here is a link to my [university webpage](https://www.research.lancs.ac.uk/portal/en/people/dimitrios-kanelis(e1651f58-d73a-4104-b5b9-6a3cd51817ff).html). 
