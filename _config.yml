@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "   Home   "
 title_separator          : "-"
 name                     : &name "Dimitris Kanelis"
-description              : &description "Dimitris Kanelis Personal Website"
+description              : &description "Dimitri's Personal Website"
 url                      : https://kanelisd.github.io/dkanelis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kanelisd/dkanelis.github.io"
