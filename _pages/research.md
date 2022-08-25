@@ -29,10 +29,3 @@ Credit rating agencies harvest and analyze debt issuer information to produce cr
 
 [Contact to request a draft](mailto:d.kanelis1@lancaster.ac.uk)
 
-
-*{% if author.googlescholar %} You can also find my articles on my Google Scholar profile. {% endif %}
-
-*{% include base_path %}
-
-*{% for post in site.publications %} {% include archive-single.html %} {% endfor %}
-
