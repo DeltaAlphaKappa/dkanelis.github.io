@@ -5,9 +5,9 @@ title: "Teaching"
 
 > Teaching and research are **not** ‘zero-sum’
 
-I have been teaching at Lancaster University since the first year of my PhD, and have been involved in Accounting (and Finance) undergraduate and postgraduate modules. I also involved in Schools Liaison and Recruitment activities - delivering taster sessions in Accounting and Finance to prospective students. 
+I have been teaching at Lancaster University since the first year of my PhD, and have been involved in Accounting (and Finance) undergraduate and postgraduate modules. I also involved in Schools Liaison and Recruitment activities - delivering taster sessions in Accounting and Finance to prospective students. I have also completed the Lancaster University Associate Teacher Programme.
 
-I have successfully completed the Lancaster University Associate Teacher Programme and am recognised as an Associate Fellow of the HEA, from [Advance HE](https://www.advance-he.ac.uk) - the national body for teaching in Higher Education in the UK.
+I am recognised as an Associate Fellow of the HEA, from [Advance HE](https://www.advance-he.ac.uk) - the national body for teaching in Higher Education in the UK.
 
 ### Lancaster University Management School, United Kingdom
 - AcF 101: Quantitative Methods for Accounting and Finance (Undergraduate)
