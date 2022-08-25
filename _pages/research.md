@@ -7,8 +7,7 @@ author_profile: true
 
 <br>
 
-**Research interests** /newline
-My research focuses on financial communication and the perceptions of capital market participants.
+My research focuses on financial communication and the perceptions of capital market gatekeepers and participants. To this end, I use machine learning methods and natural language processing tools to harvest novel data from corporate disclosures and other sources (e.g., social media and news outlets). My work draws not only from financial economics, but also from psychology theories that are applicable to financial accounting.
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
