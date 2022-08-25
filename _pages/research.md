@@ -4,7 +4,9 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-\newline
+
+<br>
+
 **Research interests**
 My research focuses on financial communication and the perceptions of capital market participants.
 
