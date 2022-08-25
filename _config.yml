@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "   Home   "
+title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Dimitris Kanelis"
 description              : &description "Dimitri's Personal Website"
