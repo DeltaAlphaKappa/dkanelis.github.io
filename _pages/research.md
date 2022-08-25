@@ -7,7 +7,7 @@ author_profile: true
 
 <br>
 
-**Research interests**
+**Research interests** /newline
 My research focuses on financial communication and the perceptions of capital market participants.
 
 {% if author.googlescholar %}
