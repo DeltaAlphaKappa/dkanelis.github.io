@@ -4,8 +4,8 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
-# Research interests
+\newline
+**Research interests**
 My research focuses on financial communication and the perceptions of capital market participants.
 
 {% if author.googlescholar %}
