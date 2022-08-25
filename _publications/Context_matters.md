@@ -1,8 +1,8 @@
 ---
-title: "Context_matters: The role of fair value footnote narratives"
+title: "Context matters: The role of fair value footnote narratives"
 collection: publications
 permalink: /publication/Context_matters
-excerpt: 'Context_matters: The role of fair value footnote narratives'
+excerpt: 'Context matters: The role of fair value footnote narratives'
 date: 2009-10-01
 
 ---
