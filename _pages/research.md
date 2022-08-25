@@ -1,3 +1,7 @@
+---
+permalink: /research/
+title: "Research"
+---
 
 > It's **not** about Debits and Credits
 
