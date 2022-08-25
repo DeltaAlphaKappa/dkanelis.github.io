@@ -11,7 +11,7 @@ I am recognised as an Associate Fellow of the HEA, from [Advance HE](https://www
 
 # Teaching Portfolio
 
-**Lancaster University Management School, United Kingdom**
+### Lancaster University Management School, United Kingdom
 - AcF 101: Quantitative Methods for Accounting and Finance (Undergraduate)
 - AcF 211: Accounting Information Systems and Auditing (Undergraduate)
 - AcF 212: Principles of Financial Reporting (Undergraduate)
