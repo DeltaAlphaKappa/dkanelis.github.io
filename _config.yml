@@ -11,7 +11,7 @@ title                    : "|   Dimitris Kanelis   |"
 title_separator          : "-"
 name                     : &name "Dimitris Kanelis"
 description              : &description "Dimitri's Personal Website"
-url                      : https://dkanelis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io" https://kanelisd.github.io/dkanelis.github.io
+url                      : https://kanelisd.github.io/dkanelis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io" https://kanelisd.github.io/dkanelis.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kanelisd/dkanelis.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
