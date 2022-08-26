@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dimitris Kanelis | PhD Candidate"
+title                    : "|  Dimitris Kanelis | "
 title_separator          : "-"
 name                     : &name "Dimitris Kanelis"
 description              : &description "Dimitri's Personal Website"
