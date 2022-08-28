@@ -117,6 +117,9 @@
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
+      {% endif %}
+      {% if author.University_profile %}
+        <li><a href="https://www.research.lancs.ac.uk/portal/en/people/:{{ author.University_profile }}"><i class="fab fa-fw fa-University_profile-w" aria-hidden="true"></i> University_profile</a></li>
 {% endif %}
     </ul>
   </div>
