@@ -79,30 +79,32 @@ analytics:
 
 
 # Site Author
+# Site Author
 author:
   name             : "Dimitris Kanelis"
   avatar           : "profilepic.jpg"
   bio              : "PhD Candidate in Accounting at the University of Lancaster"
   location         : "Lancaster, UK"
-  employer         : #"Lancaster University Management School"
-  pubmed           :  
+  employer         :
+  pubmed           : 
   googlescholar    :  
-  email            : "d.kanelis1@lancaster.ac.uk"
+  email            : "s.kanelis1@lancaster.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : #"dimitrios-kanelis"
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "kanelisd"
-  google_plus      :  
+  github           : # 
+  google_plus      :
   keybase          :
-  instagram        : 
+  instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  linkedin         : "dimitriskanelis"
-  orcid            : #"https://orcid.org/0000-0003-4630-2058"
+  lastfm           :
+  linkedin         :
+  orcid            : #
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
