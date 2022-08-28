@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "|   Dimitris A Kanelis   |"
+title                    : "|   Dimitris A. Kanelis   |"
 title_separator          : "-"
 name                     : &name "Dimitris Kanelis"
 description              : &description "Dimitri's Personal Website"
@@ -83,7 +83,7 @@ author:
   name             : "Dimitris Kanelis"
   avatar           : "profilepic.jpg"
   bio              : "PhD Candidate in Accounting at the University of Lancaster"
-  location         : "Lancaster, UK"
+  location         : "Lancaster, U.K"
   employer         : #"Lancaster University Management School"
   pubmed           :  
   googlescholar    :  
