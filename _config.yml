@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "|   Dimitris Kanelis   |"
 title_separator          : "-"
-name                     : &name "Dimitris Kanelis"
+name                     : &name "Dimitris Kanelis (LUMS)"
 description              : &description "Dimitri's Personal Website"
 url                      : https://deltaalphakappa.github.io/dkanelis.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io" https://kanelisd.github.io/dkanelis.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -102,7 +102,7 @@ author:
   instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           : 
-  University_profile: "dimitrios-kanelis"
+  #University_profile: "dimitrios-kanelis"
   linkedin         : "dimitriskanelis"
   orcid            : "https://orcid.org/0000-0003-4630-2058"
   pinterest        :
