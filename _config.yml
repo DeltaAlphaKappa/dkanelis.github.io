@@ -233,6 +233,8 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+      
+# add data in the future
 
 # Sass/SCSS
 sass:
