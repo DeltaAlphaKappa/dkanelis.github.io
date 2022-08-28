@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "|   Dimitris A. Kanelis   |"
+title                    : "|   Dimitris Kanelis   |"
 title_separator          : "-"
 name                     : &name "Dimitris Kanelis"
 description              : &description "Dimitri's Personal Website"
@@ -117,10 +117,7 @@ author:
   youtube          :
   wikipedia        :
   Website          :
-   - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url:  "https://www.research.lancs.ac.uk/portal/en/people/dimitrios-kanelis"
-
+ 
 # Reading Files
 include:
   - .htaccess
