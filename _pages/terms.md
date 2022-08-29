@@ -2,9 +2,6 @@
 permalink: /terms/
 title: "Terms and Privacy Policy"
 modified: 25-08-2022
-toc: true
-toc_label: "My Table of Contents"
-toc_icon: "cog"
 ---
 {% include base_path %}
  
