@@ -27,5 +27,5 @@ Credit rating agencies harvest and analyze debt issuer information to produce cr
 
 **Keywords**: Credit ratings; Rating stringency, Narrative disclosures; Risk; Uncertainty.
 
-[Contact to request a draft](mailto:d.kanelis1@lancaster.ac.uk)`.btn`
+[Contact to request a draft](mailto:d.kanelis1@lancaster.ac.uk)
  
