@@ -5,8 +5,7 @@ title: "Research"
 
 > Accounting is not only about Debits and Credits
 
-My research focuses on financial communication and the perceptions of capital market participants. To this end, I use machine learning methods and natural language processing tools to harvest and process novel data from corporate disclosures and other sources (e.g., social media and news outlets).[this](#Buttons){: .btn--cool}
-
+My research focuses on financial communication and the perceptions of capital market participants. To this end, I use machine learning methods and natural language processing tools to harvest and process novel data from corporate disclosures and other sources (e.g., social media and news outlets).
 # Working Papers
 
 ### Context matters: The role of fair value footnote narratives
@@ -17,7 +16,7 @@ To reduce uncertainty regarding the fair value measurement process, financial st
 
 **Keywords**: Fair value accounting; Fair value footnotes; Information risk; ASC 820; SFAS 157; Level 3; Boilerplate.
 
-[Contact to request a draft](mailto:d.kanelis1@lancaster.ac.uk){: .btn}
+[Contact to request a draft](mailto:d.kanelis1@lancaster.ac.uk){: .btn--cool}
 
 ### Tightening rating standards: The effect of narrative risk disclosures
 With [Argyro Panaretou](https://www.lancaster.ac.uk/lums/people/argyro-panaretou) and [Grzegorz Pawlina](https://www.lancaster.ac.uk/lums/people/grzegorz-pawlina)
@@ -27,5 +26,5 @@ Credit rating agencies harvest and analyze debt issuer information to produce cr
 
 **Keywords**: Credit ratings; Rating stringency, Narrative disclosures; Risk; Uncertainty.
 
-[Contact to request a draft](mailto:d.kanelis1@lancaster.ac.uk)
+[Contact to request a draft](mailto:d.kanelis1@lancaster.ac.uk){: .btn--cool}
  
