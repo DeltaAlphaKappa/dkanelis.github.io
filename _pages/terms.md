@@ -9,6 +9,8 @@ modified: 25-08-2022
 
 ## Privacy Policy
 
+By using this site, you agree to its use of cookies.
+
 The privacy of my site visitors is extremely important. This Privacy Policy outlines the types of guest information that is received and may be collected, and how it is used.
 
 First and foremost, I will never share your email address or any other guest information to anyone without your direct consent.
