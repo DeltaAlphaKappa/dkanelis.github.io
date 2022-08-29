@@ -5,7 +5,7 @@ title: "Research"
 
 > Accounting is not only about Debits and Credits
 
-My research focuses on financial communication and the perceptions of capital market participants. To this end, I use machine learning methods and natural language processing tools to harvest and process novel data from corporate disclosures and other sources (e.g., social media and news outlets).
+My research focuses on financial communication and the perceptions of capital market participants. To this end, I use machine learning methods and natural language processing tools to harvest and process novel data from corporate disclosures and other sources (e.g., social media and news outlets).[this](#Buttons){: .btn--cool}
 
 # Working Papers
 
