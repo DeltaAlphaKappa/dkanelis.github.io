@@ -5,7 +5,7 @@ modified: 25-08-2022
 ---
 
 {% include base_path %}
-{% include toc %}
+{% include toc.html html=content %}
  
 
 ## Privacy Policy
