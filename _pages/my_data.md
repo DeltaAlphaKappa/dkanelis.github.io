@@ -8,6 +8,6 @@ redirect_from:
   - "/nmp.html"
 ---
 
-This is a page is under construction
+This a page is under construction
 
   
