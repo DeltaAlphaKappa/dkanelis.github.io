@@ -1,7 +1,7 @@
 ---
 permalink: /my_data/
 title: "Data"
-excerpt: "Coming Soon"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - "/nmp/"
