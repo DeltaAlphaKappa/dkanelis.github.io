@@ -18,7 +18,8 @@ To increase the transparency of their fair value estimates, firms provide additi
 
 [Contact to request a draft](mailto:d.kanelis1@lancaster.ac.uk){: .btn--cool}
 
-### Tightening rating standards: The effect of narrative risk disclosures
+### Tightening rating standards: The effect of narrative risk-related
+disclosures
 With [Argyro Panaretou](https://www.lancaster.ac.uk/lums/people/argyro-panaretou) and [Grzegorz Pawlina](https://www.lancaster.ac.uk/lums/people/grzegorz-pawlina)
 ### Abstract
 
@@ -28,7 +29,7 @@ Research findings show that credit rating agencies are becoming stricter over ti
 
 [Contact to request a draft](mailto:d.kanelis1@lancaster.ac.uk){: .btn--cool}
 
-### Do firms manage their disclosure behaviour to demonstrate their (recovery) potential? Evidence from credit watch placements
+### Do firms manage their disclosure behaviour to demonstrate their potential? Evidence from credit watch placements
  
 ### Abstract
 
