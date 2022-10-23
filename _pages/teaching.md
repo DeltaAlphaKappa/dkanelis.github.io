@@ -5,7 +5,7 @@ title: "Teaching"
 
 > Teaching and research are **not** a ‘zero-sum’ game
 
-I have been teaching at Lancaster University since the first year of my PhD, and have been involved in Accounting (and Finance) undergraduate and postgraduate modules. I am also involved in Schools Liaison and Recruitment activities; delivering taster sessions in Accounting and Finance to prospective students.
+I have been teaching at Lancaster University since the first year of my PhD, and have been involved in Accounting (and Finance) undergraduate and postgraduate modules. I am also involved in Schools Liaison and Recruitment activities; delivering taster lectures in Accounting and Finance to prospective students.
 
 I am recognised as an Associate Fellow of the [Advance HE](https://www.advance-he.ac.uk) (formerly the Higher Education Academy) - the national body for teaching in Higher Education in the UK.
 
