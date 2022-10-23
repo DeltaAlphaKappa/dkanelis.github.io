@@ -37,5 +37,5 @@ Credit watch placements signal uncertainty about a firm’s future creditworthin
 
 **Keywords**: Credit rating agencies; Credit watches, Reporting complexity; Uncertainty.
 
-> Draft coming soon 
+**Draft coming soon**
  
