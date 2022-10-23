@@ -5,7 +5,8 @@ title: "Research"
 
 > Accounting is not only about Debits and Credits
 
-My research focuses on financial communication and the perceptions of capital market participants. To this end, I use machine learning methods and natural language processing tools to harvest and process novel data from corporate disclosures and other sources (e.g., social media and news outlets).
+The main thread that runs through my research, and constitutes the agenda for my future work, is information uncertainty (measurement, communication, effects) in financial reporting. The events of recent years served as a strong reminder of how uncertainty can affect global business operations, and challenged us to update our perceptions about risk. As a result, I believe that my research has the potential to be published in top-tier journals as it seeks to address important questions that are of interest not only to academics but also to policymakers, regulators, and business professionals.
+
 # Working Papers
 
 ### Context matters: The role of fair value footnote narratives
