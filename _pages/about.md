@@ -14,6 +14,6 @@ I am a PhD Candidate in Accounting at [Lancaster University Management School](h
 
 Before joining academia, I worked as an executive compensation and governance analyst for [Willis Towers Watson](https://www.wtwco.com/en-GB/Solutions/executive-compensation). In 2022, I was a visiting scholar at the [University of Michigan, Ross School of Business](https://michiganross.umich.edu/faculty-research/areas-of-study/accounting).
 
-My research interests include financial communication, information uncertainty, natural language processing, and fair value reporting. I am also interested in interdisciplinary accounting research.
+My research focuses on financial reporting, information uncertainty, narrative disclosures, and fair value reporting. To this end, I use machine learning methods and natural language processing tools to harvest and process novel data from corporate disclosures and other sources (e.g., social media and news outlets). I am also interested in interdisciplinary accounting research.
 
 Thank you for taking the time to check out my website. Please feel free to reach out if you have any questions about my research or any other information on this site.
