@@ -5,6 +5,6 @@ excerpt: ""
 author_profile: true
 ---
 
-This a page is under construction
+This page is under construction
 
   
