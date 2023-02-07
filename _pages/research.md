@@ -5,7 +5,7 @@ title: "Research"
 
 > Accounting is not only about Debits and Credits
 
-The main thread running through my PhD research is information uncertainty (measurement, communication, effects) in financial reporting. The events of recent years served as a strong reminder of how uncertainty can affect global business operations, and challenged us to update our perceptions about risk. As a result, I believe that my research has the potential to be published in top-tier journals as it seeks to address important questions that are of interest not only to academics but also to policymakers, regulators, and business professionals.
+The main thread running through my PhD research is information uncertainty (measurement, communication, effects) in financial reporting. The events of recent years served as a strong reminder of how uncertainty can affect global business operations, and challenged us to update our perceptions about risk. As a result, my research aims to inform not only academics but also policymakers, regulators, and business professionals.
 
 ### Context matters: The role of fair value footnote narratives
 With [Argyro Panaretou](https://www.lancaster.ac.uk/lums/people/argyro-panaretou) and [Catherine Shakespeare](https://michiganross.umich.edu/faculty-research/faculty/cathy-shakespeare)
