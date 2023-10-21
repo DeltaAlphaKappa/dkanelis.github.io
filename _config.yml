@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Dimitris Kanelis"
   avatar           : "profilepic.jpg"
-  bio              : "PhD Candidate in Accounting at the University of Lancaster"
-  location         : "Lancaster, UK"
+  bio              : "Assistant Professor in Financial Accounting at Maastricht SBE"
+  location         : "Maastricht, NL"
   employer         : #"Lancaster University Management School" - TOO LONG
   pubmed           :  
   googlescholar    :  
-  email            : "d.kanelis1@lancaster.ac.uk"
+  email            : "dimitris.kanelis1@maastrichtuniversity.nl"
   researchgate     :  
-  uri              : "https://www.research.lancs.ac.uk/portal/en/people/dimitrios-kanelis"
+  uri              : #"https://www.research.lancs.ac.uk/portal/en/people/dimitrios-kanelis"
   bitbucket        :
   codepen          :
   dribbble         :
