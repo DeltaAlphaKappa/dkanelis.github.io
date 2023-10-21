@@ -11,7 +11,7 @@ I am recognised as an Associate Fellow of the [Advance HE](https://www.advance-h
 
 ### Maastricht School of Business and Economics, NL
 - EBC 1037/38/39: Financial Accounting and Reporting (Undergraduate)
-- ebc 4074: Advanced Financial Accounting (Postgraduate)
+- EBC 4074: Advanced Financial Accounting (Postgraduate)
 
 ### Lancaster University Management School, UK
 - AcF 100: Introduction to Accounting and Finance (Undergraduate)
