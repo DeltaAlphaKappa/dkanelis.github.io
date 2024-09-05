@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "|   Dimitris Kanelis   |"
 title_separator          : "-"
 name                     : &name "Dimitris Kanelis"
-description              : &description "Dimitris Kanelis - PhD Candidate in Accounting at the University of Lancaster"
+description              : &description "Dimitris Kanelis - Assistant Professor in Accounting at Maastricht University SBE"
 url                      : "https://deltaalphakappa.github.io/dkanelis.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io" https://kanelisd.github.io/dkanelis.github.io
 baseurl                  :  #"" # the subpath of your site, e.g. "/blog"
 repository               : "deltaalphakappa/dkanelis.github.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Dimitris Kanelis"
-  avatar           : "profilepic.jpg"
-  bio              : "Assistant Professor in Financial Accounting at Maastricht SBE"
+  avatar           : "profilepic.jpg" # profilepic_MAASTRICHT.jpg
+  bio              : "Assistant Professor in Financial Accounting at Maastricht University SBE"
   location         : "Maastricht, NL"
   employer         : #"Lancaster University Management School" - TOO LONG
   pubmed           :  
