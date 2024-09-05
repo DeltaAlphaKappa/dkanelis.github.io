@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my website
 
-I am an Assistant Professor in Financial Accounting at [Maastricht School of Business and Economics](https://www.maastrichtuniversity.nl/research/department-accounting-and-information-management-aim), and a Honorary researcher at [Lancaster University Management School](https://www.research.lancs.ac.uk/portal/en/people/dimitrios-kanelis(e1651f58-d73a-4104-b5b9-6a3cd51817ff).html) (LUMS).  
+I am an Assistant Professor in Financial Accounting at [Maastricht School of Business and Economics](https://www.maastrichtuniversity.nl/research/department-accounting-and-information-management-aim). 
 
 Before joining academia, I worked as an executive compensation and governance analyst for [Willis Towers Watson](https://www.wtwco.com/en-GB/Solutions/executive-compensation). In 2022, I was a visiting scholar at the [University of Michigan, Ross School of Business](https://michiganross.umich.edu/faculty-research/areas-of-study/accounting).
 
